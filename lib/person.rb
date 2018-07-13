@@ -4,3 +4,4 @@ class Person
     @name = name
   end
 end
+a = Person.new("adele_goldberg")
