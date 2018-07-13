@@ -4,4 +4,4 @@ class Dog
     @name = name
   end
 end
-Dog.new
+fido = Dog.new("fido")
